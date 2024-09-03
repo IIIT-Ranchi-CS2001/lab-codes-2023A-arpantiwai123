@@ -26,7 +26,7 @@ x = a+b
 y = b+c
 z = a+c
 
-if x<c or y<a or z<b:
+if x<=c or y<=a or z<=b:
     print("The given triangle is not possible")
 # using cosine law..
 else:
