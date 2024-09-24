@@ -1,4 +1,4 @@
-# fing the frequency of particular character in string..
+# find if a target is present in string or not..
 str = input("Enter the string :")
 target = input("Enter the character :")
 for i in str:
