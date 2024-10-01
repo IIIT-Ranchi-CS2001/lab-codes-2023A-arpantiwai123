@@ -3,3 +3,4 @@ def greet():
     print("Good Morning")
     print("Bye")
 greet()    
+greet()
